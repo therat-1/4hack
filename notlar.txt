@@ -1,0 +1,5 @@
+- Exploit scriptini github'a pushlamadan önce tokeni temizle (ÖNEMLİ!)
+- Python bağımlılıklarını güncelle (pip freeze > requirements.txt)
+- Akşam marketten ekmek ve süt almayı unutma.
+- Bizimkilerle akşam halı saha maçı var (20:00).
+- Kali Linux ISO'sunu harici hdd'ye yazdır.

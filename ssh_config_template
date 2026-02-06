@@ -1,0 +1,4 @@
+Host hedef-sunucu
+    HostName 10.0.0.50
+    User root
+    IdentityFile ~/.ssh/id_rsa
